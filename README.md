@@ -19,5 +19,5 @@ Packet Sniffer is a Python application built with tkinter and scapy libraries to
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/suraj944/-BYTEUPRISE_CS_03.git
    cd Packet-Sniffer
